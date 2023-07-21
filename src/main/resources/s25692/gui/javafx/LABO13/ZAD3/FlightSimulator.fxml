@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="s25692.gui.javafx.LABO13.ZAD3.Controller"
+      prefWidth="400" prefHeight="300">
+
+    <Label text="Wskaźnik wysokości:" />
+    <Label fx:id="heightLabel" text="0 m" />
+
+    <Label text="Wskaźnik ilości paliwa:" />
+    <Label fx:id="fuelLabel" text="100%" />
+
+    <Label text="Prędkość śmigła:" />
+    <Slider fx:id="speedSlider" min="0" max="100" value="50" />
+
+    <Label text="Sterowanie śmigłowcem:" />
+    <ImageView fx:id="helicopterImageView" fitWidth="200" fitHeight="150" />
+
+</VBox>

@@ -1,0 +1,6 @@
+John Doe,Java Programming,59.99,java_programming_cover.png
+Jane Smith,Python Basics,39.50,python_basics_cover.png
+Michael Johnson,C++ for Beginners,49.90,cpp_for_beginners_cover.png
+Alice Williams,JavaScript Fundamentals,35.00,javascript_fundamentals_cover.png
+Emily Davis,HTML & CSS Essentials,25.99,html_css_essentials_cover.png
+Sophia Brown,Android App Development,42.75,android_app_dev_cover.png
