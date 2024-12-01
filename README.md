@@ -2,10 +2,10 @@
   <div>
     <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="" />
   </div>
-  GUI (Object-oriented programming and GUI)
+  GUI (Object Oriented-Programming and Graphical User Interface)
 </h1>
 
-Repository that contains solutions to the exercises for the GUI (Object-oriented programming and GUI) OOP, Swing and JavaFX programming practical classes, taught by Sławomir Dańczak during studies on [PJAIT](https://www.pja.edu.pl/en/).
+Repository that contains solutions to the exercises for the GUI (Object Oriented-Programming and Graphical User Interface) OOP, Swing and JavaFX programming practical classes, taught by Sławomir Dańczak during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
 The images and graphics used in this project are licensed under [Creative CommonsLicense](https://creativecommons.org/licenses/).
